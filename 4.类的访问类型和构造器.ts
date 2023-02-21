@@ -48,6 +48,6 @@ class Teacher_4 extends Person_2 {
     super("dell");
   }
 }
-const teacher = new Teacher_4(28);
+const teacher_3 = new Teacher_4(28);
 console.log(teacher.name);
 console.log(teacher.age);
